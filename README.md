@@ -1,5 +1,11 @@
+<img width="777" height="244" alt="image" src="https://github.com/user-attachments/assets/70f977e1-4be4-4355-bca8-02635995c3b9" />
+
+### Just use JS Engine...
+
+
+
 # Friday Night Funkin' - Screwed Engine
-Engine originally created for (Screwed Edition)[link soon...] (a mod of Dave And Bambi), but it can be used for your mod too! Just credit us.
+Engine originally created for Screwed Edition (a mod of Dave And Bambi), but it can be used for your mod too! Just credit us.
 
 **This engine adds languages!!!!**
 
